@@ -1,5 +1,8 @@
-hbnjkl
-fvgbjnkl;
-hjkl;'
-bjjkl;
-hjkl
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
